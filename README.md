@@ -80,6 +80,9 @@ To achieve this, we've created an additional API that the mobile application acc
 
 ## Demo
 
-<video width="400" height="300" controls>
-  <source src="https://github.com/NorhanAbdelhafez/NeuroPhone-RealTime-BrainMobilePhone-Interface/blob/main/docs/demo.mp4">
-</video>
+
+https://github.com/NorhanAbdelhafez/NeuroPhone-RealTime-BrainMobilePhone-Interface/assets/62456227/fdb3b491-ccae-40f1-8d17-ab5ba721c0b1
+
+
+
+

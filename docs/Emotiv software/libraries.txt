@@ -1,0 +1,8 @@
+pylsl library:
+https://github.com/labstreaminglayer/pylsl/tree/21fbbc30811fe151992654cdc5fa62a9a0f4d0be
+
+recieve data in sample: https://github.com/labstreaminglayer/pylsl/blob/21fbbc30811fe151992654cdc5fa62a9a0f4d0be/pylsl/examples/ReceiveData.py
+
+recieve data in chunks:
+https://github.com/labstreaminglayer/pylsl/blob/21fbbc30811fe151992654cdc5fa62a9a0f4d0be/pylsl/examples/ReceiveDataInChunks.py
+

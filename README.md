@@ -81,5 +81,5 @@ To achieve this, we've created an additional API that the mobile application acc
 ## Demo
 
 <video width="400" height="300" controls>
-  <source src="https://drive.google.com/file/d/1we7Ycj27D87j2mwEivY2lnqsKF7qCyZZ/view">
+  <source src="https://github.com/NorhanAbdelhafez/NeuroPhone-RealTime-BrainMobilePhone-Interface/blob/main/docs/demo.mp4">
 </video>

@@ -50,6 +50,7 @@ Our modeling phase initially explored traditional machine learning approaches wi
 
 Our Best Performing CNN Model:
 CNNs are known for their effectiveness in EEG analysis, capable of extracting spatial features from EEG signals. They excel in tasks such as motor imagery classification, emotion recognition, and seizure detection. In our P300 detection task, CNNs outperformed other models. Refer to the architecture used for our network in the provided image.
+
 ![image](https://github.com/NorhanAbdelhafez/NeuroPhone-RealTime-BrainMobilePhone-Interface/assets/62456227/6c70bda6-dd79-4ba3-af41-3f8996ad6f56)
 
 ## Interface building
@@ -77,6 +78,8 @@ To achieve this, we've created an additional API that the mobile application acc
 ![image](https://github.com/NorhanAbdelhafez/NeuroPhone-RealTime-BrainMobilePhone-Interface/assets/62456227/29cdbe99-c22c-428e-bc5c-c3768c881046)
 
 
-##Demo
+## Demo
 
-[![Demo](https://drive.google.com/file/d/1we7Ycj27D87j2mwEivY2lnqsKF7qCyZZ/view)
+<video width="400" height="300" controls>
+  <source src="https://drive.google.com/file/d/1we7Ycj27D87j2mwEivY2lnqsKF7qCyZZ/view">
+</video>

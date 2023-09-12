@@ -4,15 +4,15 @@ A research project that explores the potential of deep learning models in detect
 
 It's important to emphasize that we are essentially dealing with a binary classification problem, where we essentially aim to classify whether the EGG brain signal contains a P300 peak or not. It's the core research quest that this project is all about.
 
-Our project was one of the few shortlisted projects that were selected to participate in the prestigious 16th Undergraduate Research Forum and the 4th Egyptian Junior Researcher Competition at Nile University. We were also accepted in 2 Funding programs (The Academy of Scientific Research & Technology (ASRT) & Information Technology Industry Development Agency (ITIDA)), You can find the submitted funding application forms in 'docs/Funding Forms'.
+Our project was one of the few shortlisted projects that were selected to participate in the prestigious 16th Undergraduate Research Forum and the 4th Egyptian Junior Researcher Competition at Nile University. We were also accepted in 2 Funding programs (The Academy of Scientific Research & Technology (ASRT) & Information Technology Industry Development Agency (ITIDA)), You can find the submitted funding application forms in `docs/Funding Forms`.
 
 ## Repository Information and Structure
 This repository houses all the work related to our graduation project, including data, code, and third-party software.
 
 ### Where to Find What?
-- All analysis, preprocessing, training, and evaluation notebooks are located in the 'research/' directory.
-- The Flutter App source code, including all used files and assets, can be found in the 'scr/' directory.
-- Our project documentation, including the bachelor thesis, seminar presentations, and funding program application forms, is stored in the 'docs/' directory.
+- All analysis, preprocessing, training, and evaluation notebooks are located in the `research/` directory.
+- The Flutter App source code, including all used files and assets, can be found in the `scr/` directory.
+- Our project documentation, including the bachelor thesis, seminar presentations, and funding program application forms, is stored in the `docs/` directory.
 
 ## Project Life Cycle
 Our project has undergone several phases:
